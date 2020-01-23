@@ -10,6 +10,7 @@
 
 ## Usage
 ```javascript
+import React from 'react';
 import { layout } from 'react-native-layout';
 import { View, Text } from 'react-native';
 
