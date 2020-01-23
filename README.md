@@ -4,6 +4,7 @@
 
 `$ npm install react-native-layout --save`
 or
+
 `$ npm install https://github.com/InoSoft98/react-native-layout --save`
 
 ### Mostly automatic installation
